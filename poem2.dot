@@ -1,0 +1,14 @@
+digraph PoemKeywords {
+	fontname="SimHei"
+	node [color=grey, fontname="SimHei,SimSun" style=filled];
+	edge [fontname="SimSun"];
+    元氣 -> 圓虛 [label="水龍吟" color="#88000088"];
+	元氣 -> 太始 [label="水龍吟" color="#88000088"];
+	元氣 -> 三台 [label="風流子" color="#88000088"];
+	元氣 -> 天宮 [label="感皇恩" color="#88000088"];
+	元氣 -> 河圖 [label="感皇恩" color="#88000088"];
+	元氣 -> 乘槎 [label="賀新郎" color="#88000088"];
+	元氣 -> 星使 [label="賀新郎" color="#88000088"];
+	元氣 -> {玉劍 ; 金鎖 ; 漆園椿} [label="水調歌頭" color="#88000088"];
+	元氣 -> {煉丹 ; 丹灶 ; 南華 ; 瑤草} [label="沁園春" color="#88000088"];
+}
